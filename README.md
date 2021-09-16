@@ -8,7 +8,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ganna-ahmedd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganna-ahmedd" height="30" width="40" /></a>
-<a target="_blank" href="gannahmed20@gmail.com"><img align="left" alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /></a>
+<a target="_blank" href="mailto:gannahmed20@gmail.com"><img align="left" alt="Gmail" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
