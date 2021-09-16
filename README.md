@@ -5,8 +5,8 @@
 <h1 align="center">Hi 👋, I'm Ganna Ahmed</h1>
 <h3 align="center">A passionate undergraduate senior student who studies Electronics and Electrical Communications Engineering at Cairo University.</h3>
 
-- 📄 I'm a former intern at [https://www.linkedin.com/school/information-technology-institute-iti-/mycompany/](https://www.linkedin.com/school/information-technology-institute-iti-/mycompany/)
-- 
+- 📄 I'm a former intern at **ITI.**
+
 - 🔭 I’m currently working on **different embedded systems projects.**
 
 - 🌱 I’m currently learning **RTOS, Embedded linux and Adpative autosar.**
