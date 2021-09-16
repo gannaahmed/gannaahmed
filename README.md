@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Ganna Ahmed</h1>
 <h3 align="center">A passionate undergraduate student who studies Electronics and Electrical Communications Engineering at Cairo University.</h3>
 
-- 🔭 I’m currently working on **different embedded systems projects**
+- 🔭 I’m currently working on **different embedded systems projects.**
 
-- 🌱 I’m currently learning **RTOS, Embedded linux and Adpative autosar**
+- 🌱 I’m currently learning **RTOS, Embedded linux and Adpative autosar.**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
