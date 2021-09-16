@@ -1,3 +1,6 @@
+![github_7IasSxVv_kaIB (online-video-cutter com)](https://user-images.githubusercontent.com/58848295/133541332-9d14946c-e562-41bb-9b3c-8da8a353a0af.gif)
+
+
 <h1 align="center">Hi 👋, I'm Ganna Ahmed</h1>
 <h3 align="center">A passionate undergraduate student who studies Electronics and Electrical Communications Engineering at Cairo University.</h3>
 
